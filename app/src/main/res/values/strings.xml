@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">P218_Intent2_SubSub</string>
+
+    <string name="tvTitleName">氏名</string>
+    <string name="rbtnTitleM">男性</string>
+    <string name="rbtnTitleF">女性</string>
+
+    <string name="btnNext">次</string>
+    <string name="btnPrevious">前</string>
+
+        <string name="DatePicker1">いつ：</string>
+        <string name="DatePicker2">ここに日付が表示されます</string>
+
+        DatePicker
+        <string name="itu">時間帯</string>
+        <string name="itu1">朝</string>
+        <string name="itu2">昼</string>
+        <string name="itu3">夕</string>
+        <string name="itu4">間食</string>
+
+        <string name="name1">料理名</string>
+        <string name="name2">ジャンルと注文を入力してください</string>
+
+        <string name="timei">場所のヒント</string>
+        <string name="timei1">Dポイントクラブ\nクーポン場所</string>
+        <string name="timei2">JAF会員優待場所</string>
+        <string name="timei3">地名読み方検索</string>
+        <string name="timei4">GOOGLE MAP\n(ポリテク茨城付近)</string>
+        <string name="timei5">GOOGLE EARTH\n(ポリテク茨城付近)</string>
+        <string name="screenshot1">地図のスクリーンショット</string>
+        <string name="screenshot2">URLをここにメモ</string>
+
+        <string name="ryourisyasinn">料理の撮影写真</string>
+        <string name="price">値段（税込）</string>
+        <string name="en">円</string>
+
+        <string name="hosi1">人に薦めたいか</string>
+        <string name="hosi2">星:</string>
+
+        <string name="syokuhinngunn">10食品群シート  季刊雑誌「NHKためしてガッテン」（3、6、9、12月の16日発売／主婦と生活社刊より</string>
+
+        <string name="hinnmokugun1">肉類</string>
+        <string name="hinnmokugun2">魚介類</string>
+        <string name="hinnmokugun3">卵・\n卵製品</string>
+        <string name="hinnmokugun4">牛乳・\n乳製品</string>
+        <string name="hinnmokugun5">大豆・\n大豆製品</string>
+        <string name="hinnmokugun6">海藻類</string>
+        <string name="hinnmokugun7">いも類</string>
+        <string name="hinnmokugun8">果物</string>
+        <string name="hinnmokugun9">油脂類</string>
+        <string name="hinnmokugun10">緑黄色野菜</string>
+
+        <string name="hinnmoku1">牛、豚、鶏肉だけでなく、ウインナーソーセージやハム、ベーコンなどの加工品も含まれる。</string>
+        <string name="hinnmoku2">生魚のほかに開きなどの干物や加工品、さらに、いか、えび、たこ、かになどの魚介類全般も含まれる。</string>
+        <string name="hinnmoku3">鶏卵だけでなく、うずら卵、卵豆腐などの卵製品も含まれる。※魚卵は含まれない。</string>
+        <string name="hinnmoku4">牛乳のほか、ヨーグルトやチーズなどの乳製品も含まれる。</string>
+        <string name="hinnmoku5">大豆そのものだけでなく、豆腐や納豆、油揚げなどの大豆製品や枝豆も含まれる。</string>
+        <string name="hinnmoku6">ひじきやわかめのほか、のり、もずく、めかぶなど。乾物でもよい。</string>
+        <string name="hinnmoku7">じゃがいも、さつまいも、里いもなど。どんな種類のいもでもよい。</string>
+        <string name="hinnmoku8">好みの果物でよい。</string>
+        <string name="hinnmoku9">サラダ油、オリーブ油など植物油のほか、バターやラードなどの動物油、ショートニングも含まれる。</string>
+        <string name="hinnmoku10">ほうれん草、トマトのほか、かぼちゃ、にんじん、にらなど、βカロテンを豊富に含む野菜。</string>
+
+
+
+
+
+</resources>
